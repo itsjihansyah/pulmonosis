@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420735835661",
+    "project_id": "pulmonosis",
+    "storage_bucket": "pulmonosis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420735835661:android:9ca355c9fd32be9708bf44",
+        "android_client_info": {
+          "package_name": "com.example.calprotectin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWwrwQ_5SDvNHVVdxijyYNIS1lduIbUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
