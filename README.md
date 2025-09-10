@@ -15,3 +15,5 @@ The app enables users to:
 * Firebase: Real-time database for secure data storage and synchronization.
 
 [![Image](https://github.com/user-attachments/assets/d70913da-4641-42fa-88d1-2089fcfb3e4a)](https://youtu.be/h_Uf7FeEBQU?si=-MUUxXUWId3D5HUr "Demo")
+
+©2025 Pulmonosis. All rights reserved | Pulmonosis has been registered for copyright with the Directorate General of Intellectual Property (DGIP) Indonesia.
