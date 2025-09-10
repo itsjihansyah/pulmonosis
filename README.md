@@ -14,4 +14,4 @@ The app enables users to:
 * FastAPI: Provides RESTful endpoints to connect the Flutter front-end with the ML recommender system written in Python.
 * Firebase: Real-time database for secure data storage and synchronization.
 
-![Image](https://github.com/user-attachments/assets/0eeec17d-3cca-472e-8c31-cb78f6def4d8)
+[![Image](https://github.com/user-attachments/assets/2c7a25a7-9812-495e-8e07-a80f12feace9)](https://youtu.be/h_Uf7FeEBQU?si=-MUUxXUWId3D5HUr "Demo")
